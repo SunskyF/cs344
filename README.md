@@ -3,6 +3,8 @@ cs344
 
 Introduction to Parallel Programming class code
 
+https://classroom.udacity.com/courses/cs344
+
 # Building on OS X
 
 These instructions are for OS X 10.9 "Mavericks".
@@ -21,4 +23,6 @@ cd build
 cmake ..
 make
 ```
+
+# Building on Linux
 
